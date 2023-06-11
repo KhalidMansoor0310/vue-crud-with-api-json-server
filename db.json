@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "Facebook need low traffic and quality",
+      "author": "khalid mansoor",
+      "email": "facebook@gmail.com",
+      "id": 5
+    },
+    {
+      "title": "Youtube is best platform",
+      "author": "youtube",
+      "email": "yu@gmail.com",
+      "id": 7
+    },
+    {
+      "title": "Facebook need low traffic",
+      "author": "khalid mansoor",
+      "email": "fface@gmail.com",
+      "id": 8
+    }
+  ]
+}
